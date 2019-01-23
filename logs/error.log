@@ -1,0 +1,75 @@
+2019/01/21 21:38:29 [error] 7#7: *1 open() "/var/www/logproj/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /favicon.ico HTTP/1.1", host: "logproj:8000", referrer: "http://logproj:8000/"
+2019/01/21 21:43:32 [error] 7#7: *4 open() "/var/www/logproj/phpmyadmin" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /phpmyadmin HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:05:13 [error] 7#7: *6 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:05:17 [error] 7#7: *6 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:45 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:47 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:47 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:48 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:48 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:48 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:15:48 [error] 7#7: *9 open() "/var/www/logproj/pma" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:17:49 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8000/pma", host: "logproj:8000"
+2019/01/21 22:17:49 [error] 7#7: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8000/pma", host: "logproj:8000"
+2019/01/21 22:17:51 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:51 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:52 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:52 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:52 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:52 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:17:53 [error] 7#7: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:29:31 [error] 7#7: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma67868 HTTP/1.1", upstream: "http://127.0.0.1:8000/pma67868", host: "logproj:8000"
+2019/01/21 22:29:31 [error] 7#7: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma67868 HTTP/1.1", upstream: "http://127.0.0.1:8000/pma67868", host: "logproj:8000"
+2019/01/21 22:29:34 [error] 7#7: *7 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma67868 HTTP/1.1", upstream: "http://localhost/pma67868", host: "logproj:8000"
+2019/01/21 22:29:42 [error] 7#7: *7 open() "/var/www/logproj/jkljk" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /jkljk HTTP/1.1", host: "logproj:8000"
+2019/01/21 22:29:48 [error] 7#7: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8000/pma", host: "logproj:8000"
+2019/01/21 22:29:48 [error] 7#7: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8000/pma", host: "logproj:8000"
+2019/01/21 22:33:28 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8183/pma", host: "logproj:8000"
+2019/01/21 22:33:28 [error] 7#7: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://127.0.0.1:8183/pma", host: "logproj:8000"
+2019/01/21 22:33:30 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:30 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:31 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:31 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:31 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:31 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:31 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:32 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:32 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:32 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:33 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:33 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:33 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:33 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:33 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:34 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:34 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:35 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:35 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:35 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:35 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:36 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:36 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:36 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:37 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:37 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:37 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/21 22:33:37 [error] 7#7: *2 no live upstreams while connecting to upstream, client: 172.18.0.1, server: logproj, request: "GET /pma HTTP/1.1", upstream: "http://localhost/pma", host: "logproj:8000"
+2019/01/22 14:02:13 [error] 7#7: *2 open() "/var/www/logproj/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /favicon.ico HTTP/1.1", host: "logproj:8000", referrer: "http://logproj:8000/"
+2019/01/22 14:29:04 [error] 7#7: *1 directory index of "/var/www/logproj/" is forbidden, client: 172.18.0.1, server: logproj, request: "GET / HTTP/1.1", host: "logproj:8000"
+2019/01/22 14:30:56 [error] 7#7: *1 open() "/var/www/logproj/web/123" failed (2: No such file or directory), client: 172.18.0.1, server: logproj, request: "GET /123 HTTP/1.1", host: "logproj:8000"
+2019/01/22 14:39:37 [emerg] 1#1: open() "/etc/nginx/fastcgi.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/logproj.conf:20
+2019/01/22 14:40:12 [emerg] 1#1: open() "/etc/nginx/fastcgi.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/logproj.conf:20
+2019/01/22 14:42:01 [error] 7#7: *4 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: logproj, request: "GET /requirements.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "logproj:8000"
+2019/01/23 00:18:58 [error] 7#7: *581 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /var/www/logproj/models/LogSearch.php on line 60. in /var/www/logproj/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /var/www/logproj/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /var/www/logproj/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /var/www/logproj/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler->renderException(Object(yii\web\HeadersAlreadySentException))
+#3 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\web\HeadersAlreadySentException))
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /var/www/logproj/models/LogSearch.php on line 60. in /var/www/logproj/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /var/www/logproj/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /var/www/logpro" while reading upstream, client: 172.18.0.1, server: logproj, request: "GET /site/index?LogSearch%5Btype%5D=&page=32991&per-page=100&sort=ts HTTP/1.1", upstream: "fastcgi://172.18.0.2:9000", host: "logproj:8000"
